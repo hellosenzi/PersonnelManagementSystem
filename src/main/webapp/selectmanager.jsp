@@ -20,7 +20,7 @@ var xm=document.form1.xingming.value;
 var bm=document.form1.bumen.value;
                                                                                                   
 if(bh==''&&xm==''&&bm==''){                                                                                                                            
-alert("请填写查询条件");
+alert("请填写查询条件..");
 return false;  }                                                                                                                         
 }
 </script>
